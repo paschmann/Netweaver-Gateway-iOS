@@ -3,3 +3,10 @@ This project is a simple sample, showing how to read and write records using SAP
  
 <h2>Notes</h2>
 <a href='http://scn.sap.com/community/netweaver-gateway/blog/2013/05/10/simple-sample-writing-an-entry-to-sap-netweaver-gateway-using-json'>View the Blog post here</a><br />
+
+License
+----
+
+Netweaver Gateway for iOS is available under the MIT license.
+
+Copyright © 2014 Paul Aschmann
